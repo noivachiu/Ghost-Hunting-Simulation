@@ -53,5 +53,4 @@ Created Files
 6. To validate the program logs, enter this command: python3 validate_logs.py
 7. To remove object files, log files, and the executable file, enter this command: make clean
 
-NOTE:
-* It is necessary to remove all log files each time before running the program to ensure the validator works properly
+NOTE: It is necessary to remove all log files each time before running the program to ensure the validator works properly
