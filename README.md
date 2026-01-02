@@ -1,6 +1,6 @@
 # Ghost Hunt Simulation Game
 
-Name: Noiva Chiu
+Programmer: Noiva Chiu
 
 ## Program Description
 
