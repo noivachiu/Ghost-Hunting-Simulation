@@ -4,7 +4,7 @@ Name: Noiva Chiu
 
 ## Program Description
 
-This program runs a ghost hunting simulation, where hunters in a house attempt to identify the ghost present in it before running away due to boredom or fear. The ghosts spawns in a random room within the house, and the hunters are tasks with identifying evidence left behind by the ghost, starting in the van / exit room.
+This program runs a ghost hunting simulation, where hunters in a house attempt to identify the ghost present in it before running away due to boredom or fear. The ghosts spawns in a random room within the house, and the hunters are tasked with identifying evidence left behind by the ghost, starting in the van / exit room.
     
 When the program is running, users are prompted to create the hunters by providing each hunter's name and ID until the user enters "done".
 
