@@ -50,7 +50,3 @@ Created Files
 3. Should see an executable file named 'project' appear
 4. From the same directory, enter this command to execute the project: ./project
 5. Once program starts running, follow prompts to create hunters and start the simulation
-6. To validate the program logs, enter this command: python3 validate_logs.py
-7. To remove object files, log files, and the executable file, enter this command: make clean
-
-NOTE: It is necessary to remove all log files each time before running the program to ensure the validator works properly
