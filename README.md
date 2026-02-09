@@ -12,8 +12,6 @@ Additional functionality from the requirements has been included, in which the u
 
 ## File Purposes
 
-Provided Files
-
 * main.c
     + main() function, manages main control flow
 * defs.h
@@ -24,9 +22,6 @@ Provided Files
     + helper functions
 * validate_logs.py
     + simulation logs validator
-
-Created Files
-
 * house.c
     + implements house related functions
 * room.c
@@ -39,7 +34,6 @@ Created Files
     + implements hunter related functions
 * evidence.c
     + implements all functions handling room and case file evidence
-
 * makefile
     + builds the program
 
